@@ -22,30 +22,6 @@ Welcome to my GitHub profile! I’m a C# developer who enjoys building modern ap
 
 ---
 
-## 🛠 Tech Stack
-
-**Languages**
-- C#
-- SQL
-
-**Frameworks & Runtimes**
-- .NET / .NET Core
-- Blazor (Server/WebAssembly)
-- WPF
-
-**Data & Persistence**
-- MongoDB
-- MySQL
-- EF Core
-
-**DevOps & Tools**
-- Docker
-- Git & GitHub
-- REST APIs
-- Postman / HTTP clients
-
----
-
 ## 📊 GitHub Stats
 
 ![Elisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashryverelisa&show_icons=true&theme=tokyonight&hide_border=true)
