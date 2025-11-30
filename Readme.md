@@ -22,11 +22,5 @@ Welcome to my GitHub profile! I’m a C# developer who enjoys building modern ap
 
 ---
 
-## 📊 GitHub Stats
-
-[![Elias's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashryverelisa)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 Thanks for visiting!  
 If you’re into .NET, Blazor, WPF, or microservices, feel free to open an issue, start a discussion, or reach out—always happy to connect with other developers.
