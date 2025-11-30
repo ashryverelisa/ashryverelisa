@@ -24,9 +24,7 @@ Welcome to my GitHub profile! I’m a C# developer who enjoys building modern ap
 
 ## 📊 GitHub Stats
 
-![Elisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashryverelisa&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashryverelisa&layout=compact&theme=tokyonight&hide_border=true)
+[![Elisa's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashryverelisa)](https://github.com/ashryverelisa/github-readme-stats)
 
 ---
 
