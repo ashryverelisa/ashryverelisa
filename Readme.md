@@ -1,6 +1,6 @@
 # Hi, I'm Elisa 👋
 
-Welcome to my GitHub profile! I’m a C# developer who enjoys building modern applications with .NET—especially rich frontends, microservices, and cloud-ready backends.
+Welcome to my GitHub profile! I’m a C# developer who enjoys building modern applications with .NET especially microservices, and cloud-ready backends.
 
 ---
 
