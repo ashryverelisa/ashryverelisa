@@ -7,7 +7,7 @@ I’m a C# developer who enjoys building modern applications with .NET especiall
 
 ## About Me
 
-- OS: CachyOS with Hyprland
+- OS: CachyOS with Niri
 - Mainly working with: **C# / .NET**
 - Frontend: **Blazor**, **WPF** (desktop)
 - Backend & Architecture: **Microservices**, **REST APIs**
