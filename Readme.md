@@ -9,7 +9,7 @@ I’m a C# developer who enjoys building modern applications with .NET especiall
 
 - OS: CachyOS with Niri
 - Mainly working with: **C# / .NET**
-- Frontend: **Blazor**, **WPF** (desktop)
+- Frontend: **Blazor**, **WPF** (desktop), **Avalonia**
 - Backend & Architecture: **Microservices**, **REST APIs**
 - Dev & Deployment: **Docker**
 - Data: **MongoDB**, **MySQL**, **EF Core**
